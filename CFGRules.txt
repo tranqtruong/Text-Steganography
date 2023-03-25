@@ -1,0 +1,6 @@
+Start->adjective|noun|tense|verb
+adjective->The size|A size
+size->tiny|small|large|big
+noun->saw|ladder|truth|boy
+tense->is|was
+verb->waiting|standing

@@ -1,0 +1,6 @@
+Start->noun|verb
+noun->Alice|Bob
+verb->sent mail to|sent email to
+to->to rel recipient
+rel->all|some
+recipient->friends|relatives
